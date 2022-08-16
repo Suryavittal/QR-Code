@@ -1,0 +1,39 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.image{
+
+
+
+  width:300px;
+border-radius: 15px;
+
+}
+.box{
+
+
+ display: inline;
+}
+
+.bg{
+  border-radius: 15px;
+  background-color: white;
+  width:330px ;
+  height:500px;
+
+  padding-top: 10px;
+
+
+  position: relative;
+  left:550px;
+  top:200px;
+}
+.a{
+  color: lightblue;
+}
+
+.b{
+  text-align: center;
+  color: lightgrey;
+}
